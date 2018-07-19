@@ -15,7 +15,7 @@
   <url>https://github.com/ebean-orm-tools/archetype-kotlin</url>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/ebean-orm-tools/archetype-kotlin.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:ebean-orm-tools/archetype-kotlin.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
